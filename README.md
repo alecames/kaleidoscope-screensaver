@@ -9,7 +9,7 @@ This repository contains two programs:
 ## How to Run
 
 * Go to the [Releases](https://github.com/alecames/opengl-vol-1/releases) section and download the `kaleidoscope-x.x.zip` or `screensaver-x.x.zip`
-* Extract to folder and run the executable
+* Extract to folder and run the executable.
 
 ## Screen Captures
 
