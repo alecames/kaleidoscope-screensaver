@@ -2,5 +2,9 @@
 *.code-workspace
 *.pdf
 *.zip
-Debug
-x64
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.txt
+*.log
+*.tlog
