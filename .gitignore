@@ -12,3 +12,4 @@
 # exclude Debug folder
 Debug/
 x64/
+Release
