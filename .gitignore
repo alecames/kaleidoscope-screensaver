@@ -1,0 +1,14 @@
+.vs
+*.code-workspace
+*.pdf
+*.zip
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.txt
+*.log
+*.tlog
+
+# exclude Debug folder
+Debug/
+x64/
