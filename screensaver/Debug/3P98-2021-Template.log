@@ -1,0 +1,13 @@
+﻿  screensaver.cpp
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(16,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(44,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(45,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(46,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(129,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(131,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(132,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(133,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(145,19): warning C4305: '+=': truncation from 'double' to 'float'
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(152,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+X:\Programming\C++ Projects\Assignment 1\screensaver\screensaver.cpp(153,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  3P98-2021-Template.vcxproj -> X:\Programming\C++ Projects\Assignment 1\screensaver\Debug\screensaver.exe
